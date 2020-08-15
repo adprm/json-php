@@ -1,12 +1,69 @@
 {
     "menu": [{
             "kategori": "Burger",
-            "nama": "BBQ Crispy Chicken Rasher",
-            "harga": 60454,
-            "gambar": "bbq.jpg"
+            "nama": "Burger Nasi Goreng Spesial",
+            "harga": 50000,
+            "gambar": "burger-nasgor-spesial.png"
         },
         {
-
+            "kategori": "Burger",
+            "nama": "Burger Nasi Goreng",
+            "harga": 35000,
+            "gambar": "burger-nasgor.png"
+        },
+        {
+            "kategori": "Burger",
+            "nama": "Beef Yakiniku Tamgo",
+            "harga": 52000,
+            "gambar": "beef-yakiniku.png"
+        },
+        {
+            "kategori": "Burger",
+            "nama": "Big Mac",
+            "harga": 100000,
+            "gambar": "bigmac.png"
+        },
+        {
+            "kategori": "Burger",
+            "nama": "Triple Burger with Cheese",
+            "harga": 89000,
+            "gambar": "triple-burger.png"
+        },
+        {
+            "kategori": "Burger",
+            "nama": "Double Cheese Burger",
+            "harga": 76000,
+            "gambar": "double-cheese.png"
+        },
+        {
+            "kategori": "Burger",
+            "nama": "Cheeseburger Deluxe",
+            "harga": 74000,
+            "gambar": "cheeseburger-delux.png"
+        },
+        {
+            "kategori": "Burger",
+            "nama": "Cheeseburger with Egg",
+            "harga": 87000,
+            "gambar": "cheeseburger-egg.png"
+        },
+        {
+            "kategori": "Burger",
+            "nama": "Cheeseburger",
+            "harga": 64000,
+            "gambar": "cheeseburger.png"
+        },
+        {
+            "kategori": "Burger",
+            "nama": "Beef Burger Delux",
+            "harga": 70000,
+            "gambar": "beef-burger-delux.png"
+        },
+        {
+            "kategori": "Burger",
+            "nama": "Beef Burger",
+            "harga": 54000,
+            "gambar": "beef-burger.png"
         }
     ]
 }
