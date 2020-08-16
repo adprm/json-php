@@ -1,3 +1,8 @@
+<?php
+// menyiapkan data
+$data = file_get_contents('data/burger.json');
+
+?>
 <!doctype html>
 <html lang="en">
   <head>
