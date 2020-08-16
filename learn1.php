@@ -1,6 +1,8 @@
 <?php
 // menyiapkan data
 $data = file_get_contents('data/burger.json');
+// decode data json jadi array
+$menu = json_decode($data, true);
 
 ?>
 <!doctype html>
