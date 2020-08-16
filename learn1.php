@@ -3,6 +3,8 @@
 $data = file_get_contents('data/burger.json');
 // decode data json jadi array
 $menu = json_decode($data, true);
+// data menu
+$menu = $menu["menu"];
 
 ?>
 <!doctype html>
